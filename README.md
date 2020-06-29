@@ -1,2 +1,2 @@
 # mandadito
-Gestion de Paqueteobar
+Gestion de Paquete
